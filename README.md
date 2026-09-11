@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
+\<h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 <h3 align="center">Full-Stack Web Developer | CS Undergrad | Building things end-to-end</h3>
 
 <p align="center">
@@ -49,12 +49,12 @@ I enjoy breaking down complex algorithms into simple mental models — and build
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShikharGupta100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharGupta100&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShikharGupta100&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -62,11 +62,11 @@ I enjoy breaking down complex algorithms into simple mental models — and build
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShikharGupta100&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 <p align="center">
-<i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Shikhar Gupta</a> — thanks for stopping by!</i>
+<i>⭐️ From <a href="https://github.com/ShikharGupta100">Shikhar Gupta</a> — thanks for stopping by!</i>
 </p>
